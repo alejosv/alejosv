@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am experienced engineer from Costa Rica focused on the design, development and implementation of projects for the area of medical informatics based on interoperability standards.
+
+- 🔭 I’m currently working on Meddyg in the developing platforms to radiology area. 
+- 👯 I'm looking to collaborate on open source projects focused in the medical area. 
+- 💬 Ask me about: HL7, DICOM, Interoperability, Programming patterns
