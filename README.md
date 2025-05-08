@@ -18,4 +18,4 @@ I am experienced engineer from Costa Rica focused on the design, development and
 
 - 🔭 I’m currently working on Meddyg in the developing platforms to radiology area. 
 - 👯 I'm looking to collaborate on open source projects focused in the medical area. 
-- 💬 Ask me about: HL7, DICOM, Interoperability, Programming patterns
+- 💬 Ask me about: HL7, DICOM, OpenHIE, Interoperability, Programming patterns
